@@ -109,3 +109,4 @@ with conn.cursor() as cur:
         #conn.commit()
     find_client(conn, name='', surname='', email='', number='')
 
+conn.close()
