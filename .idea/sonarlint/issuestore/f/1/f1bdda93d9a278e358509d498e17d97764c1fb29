@@ -1,29 +1,3 @@
 
-•python:S1192<"vDefine a constant instead of duplicating this literal """
-            SELECT * FROM client;
-            """ 3 times.(‰°ÿø8»¥¯ÄÀ1
-Ppython:S1172",Remove the unused function parameter "conn".(€›çöûÿÿÿÿ8»¥¯ÄÀ1
-Rpython:S1172".Remove the unused function parameter "number".(€›çöûÿÿÿÿ8»¥¯ÄÀ1
-Qpython:S1172"-Remove the unused function parameter "email".(€›çöûÿÿÿÿ8»¥¯ÄÀ1
-Ppython:S1172",Remove the unused function parameter "name".(€›çöûÿÿÿÿ8»¥¯ÄÀ1
-Spython:S1172"/Remove the unused function parameter "surname".(€›çöûÿÿÿÿ8¼¥¯ÄÀ1
-Hpython:S1172#"*Remove the unused function parameter "id".(ª€‚s8¼¥¯ÄÀ1
-Lpython:S1172#".Remove the unused function parameter "number".(ª€‚s8¼¥¯ÄÀ1
-Jpython:S1172#",Remove the unused function parameter "conn".(ª€‚s8¼¥¯ÄÀ1
-Rpython:S1172,".Remove the unused function parameter "number".(‰Ìî¤ÿÿÿÿÿ8¼¥¯ÄÀ1
-Ppython:S1172,",Remove the unused function parameter "conn".(‰Ìî¤ÿÿÿÿÿ8¼¥¯ÄÀ1
-Qpython:S1172,"-Remove the unused function parameter "email".(‰Ìî¤ÿÿÿÿÿ8¼¥¯ÄÀ1
-Npython:S1172,"*Remove the unused function parameter "id".(‰Ìî¤ÿÿÿÿÿ8¼¥¯ÄÀ1
-Spython:S1172,"/Remove the unused function parameter "surname".(‰Ìî¤ÿÿÿÿÿ8¼¥¯ÄÀ1
-Ppython:S1172,",Remove the unused function parameter "name".(‰Ìî¤ÿÿÿÿÿ8¼¥¯ÄÀ1
-Npython:S1172E"*Remove the unused function parameter "id".(°±â²ýÿÿÿÿ8¼¥¯ÄÀ1
-Ppython:S1172E",Remove the unused function parameter "conn".(°±â²ýÿÿÿÿ8¼¥¯ÄÀ1
-Rpython:S1172E".Remove the unused function parameter "number".(°±â²ýÿÿÿÿ8¼¥¯ÄÀ1
-Kpython:S1172R",Remove the unused function parameter "conn".(½Ãõ¹8¼¥¯ÄÀ1
-Ipython:S1172R"*Remove the unused function parameter "id".(½Ãõ¹8Œ›ºÄÀ1
-Mpython:S1172R".Remove the unused function parameter "number".(½Ãõ¹8†Ž¹ÄÀ1
-Mpython:S1172^".Remove the unused function parameter "number".(ÏÆ¹«8¼¥¯ÄÀ1
-Npython:S1172^"/Remove the unused function parameter "surname".(ÏÆ¹«8¼¥¯ÄÀ1
-Kpython:S1172^",Remove the unused function parameter "conn".(ÏÆ¹«8¼¥¯ÄÀ1
-Kpython:S1172^",Remove the unused function parameter "name".(ÏÆ¹«8ôÞºÄÀ1
-Lpython:S1172^"-Remove the unused function parameter "email".(ÏÆ¹«8•‹¼ÄÀ1
+Ppython:S1172",Remove the unused function parameter "conn".(°ýÖîüÿÿÿÿ8÷ß’¢Å1
+Ppython:S1172U",Remove the unused function parameter "conn".(ÿž‹ºüÿÿÿÿ8ÿž¢Å1
